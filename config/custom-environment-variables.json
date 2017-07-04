@@ -1,0 +1,8 @@
+{
+  "app": {
+    "port": "KOA_RABBIT_APP_PORT"
+  },
+  "queue": {
+    "url": "KOA_RABBIT_QUEUE_URL"
+  }
+}
